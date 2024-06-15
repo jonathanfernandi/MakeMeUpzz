@@ -1,0 +1,788 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\views\\admin\\updatemakeuptype.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\views\\admin\\updatemakeuptype.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\views\\admin\\updatemakeupbrand.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\views\\admin\\updatemakeupbrand.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\views\\admin\\updatemakeup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\views\\admin\\updatemakeup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\views\\admin\\transactionreport.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\views\\admin\\transactionreport.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\views\\admin\\orderqueue.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\views\\admin\\orderqueue.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\views\\admin\\managemakeup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\views\\admin\\managemakeup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\views\\admin\\insertmakeuptype.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\views\\admin\\insertmakeuptype.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\views\\admin\\insertmakeupbrand.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\views\\admin\\insertmakeupbrand.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\views\\admin\\insertmakeup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\views\\admin\\insertmakeup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\views\\admin\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\views\\admin\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\views\\customer\\ordermakeup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\views\\customer\\ordermakeup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\views\\customer\\history.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\views\\customer\\history.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\views\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\views\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\views\\transactiondetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\views\\transactiondetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\views\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\views\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\views\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\views\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\views\\admin\\insertmakeup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\views\\admin\\insertmakeup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\views\\admin\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\views\\admin\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__VINSON_BINUS_SEMESTER_4_PATTERN_SOFTWARE_DESIGN_FILE_ASLI_PSD_BOS_PSD_PROJECT_VINSON_PSD_PROJECT_APP_DATA_DATABASE.MDF/True/SqlTable/dbo.TransactionDetails.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__VINSON_BINUS_SEMESTER_4_PATTERN_SOFTWARE_DESIGN_FILE_ASLI_PSD_BOS_PSD_PROJECT_VINSON_PSD_PROJECT_APP_DATA_DATABASE.MDF/True/SqlTable/dbo.TransactionHeaders.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__VINSON_BINUS_SEMESTER_4_PATTERN_SOFTWARE_DESIGN_FILE_ASLI_PSD_BOS_PSD_PROJECT_VINSON_PSD_PROJECT_APP_DATA_DATABASE.MDF/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\factories\\transactionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\factories\\transactionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__VINSON_BINUS_SEMESTER_4_PATTERN_SOFTWARE_DESIGN_FILE_ASLI_PSD_BOS_PSD_PROJECT_VINSON_PSD_PROJECT_APP_DATA_DATABASE.MDF/True/SqlTable/dbo.Makeups.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__VINSON_BINUS_SEMESTER_4_PATTERN_SOFTWARE_DESIGN_FILE_ASLI_PSD_BOS_PSD_PROJECT_VINSON_PSD_PROJECT_APP_DATA_DATABASE.MDF/True/SqlTable/dbo.MakeupBrands.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__VINSON_BINUS_SEMESTER_4_PATTERN_SOFTWARE_DESIGN_FILE_ASLI_PSD_BOS_PSD_PROJECT_VINSON_PSD_PROJECT_APP_DATA_DATABASE.MDF/True/SqlTable/dbo.Carts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__VINSON_BINUS_SEMESTER_4_PATTERN_SOFTWARE_DESIGN_FILE_ASLI_PSD_BOS_PSD_PROJECT_VINSON_PSD_PROJECT_APP_DATA_DATABASE.MDF/True/SqlTable/dbo.MakeupTypes.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\controllers\\managemakeupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\controllers\\managemakeupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\views\\admin\\insertmakeupbrand.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\views\\admin\\insertmakeupbrand.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\views\\profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\views\\profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\views\\admin\\managemakeup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\views\\admin\\managemakeup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\views\\customer\\history.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\views\\customer\\history.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\views\\customer\\ordermakeup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\views\\customer\\ordermakeup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\views\\transactiondetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\views\\transactiondetail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\views\\customer\\history.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\views\\customer\\history.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\views\\admin\\updatemakeup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\views\\admin\\updatemakeup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\views\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\views\\register.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\controllers\\transactiondetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\controllers\\transactiondetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\views\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\views\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\views\\admin\\updatemakeuptype.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\views\\admin\\updatemakeuptype.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\views\\admin\\updatemakeupbrand.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\views\\admin\\updatemakeupbrand.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\views\\admin\\transactionreport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\views\\admin\\transactionreport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\views\\admin\\orderqueue.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\views\\admin\\orderqueue.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|c:\\vinson\\binus\\semester 4\\pattern software design\\file asli psd bos\\psd_project_vinson\\psd_project\\views\\admin\\insertmakeuptype.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B52B008-3BE8-48BB-B155-9B862EAC8082}|PSD_PROJECT\\PSD_PROJECT.csproj|solutionrelative:psd_project\\views\\admin\\insertmakeuptype.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 110,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderQueue.aspx",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\OrderQueue.aspx",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Views\\Admin\\OrderQueue.aspx",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\OrderQueue.aspx",
+              "RelativeToolTip": "PSD_PROJECT\\Views\\Admin\\OrderQueue.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T20:02:23.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionReport.aspx",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\TransactionReport.aspx",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Views\\Admin\\TransactionReport.aspx",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\TransactionReport.aspx",
+              "RelativeToolTip": "PSD_PROJECT\\Views\\Admin\\TransactionReport.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T17:10:39.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateMakeup.aspx",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\UpdateMakeup.aspx",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Views\\Admin\\UpdateMakeup.aspx",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\UpdateMakeup.aspx",
+              "RelativeToolTip": "PSD_PROJECT\\Views\\Admin\\UpdateMakeup.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T17:11:11.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateMakeupBrand.aspx",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\UpdateMakeupBrand.aspx",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Views\\Admin\\UpdateMakeupBrand.aspx",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\UpdateMakeupBrand.aspx",
+              "RelativeToolTip": "PSD_PROJECT\\Views\\Admin\\UpdateMakeupBrand.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T20:04:50.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateMakeupType.aspx",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\UpdateMakeupType.aspx",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Views\\Admin\\UpdateMakeupType.aspx",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\UpdateMakeupType.aspx",
+              "RelativeToolTip": "PSD_PROJECT\\Views\\Admin\\UpdateMakeupType.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T17:37:15.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageMakeup.aspx",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\ManageMakeup.aspx",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Views\\Admin\\ManageMakeup.aspx",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\ManageMakeup.aspx",
+              "RelativeToolTip": "PSD_PROJECT\\Views\\Admin\\ManageMakeup.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T17:29:41.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InsertMakeupType.aspx",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\InsertMakeupType.aspx",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Views\\Admin\\InsertMakeupType.aspx",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\InsertMakeupType.aspx",
+              "RelativeToolTip": "PSD_PROJECT\\Views\\Admin\\InsertMakeupType.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T17:29:08.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InsertMakeupBrand.aspx",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\InsertMakeupBrand.aspx",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Views\\Admin\\InsertMakeupBrand.aspx",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\InsertMakeupBrand.aspx",
+              "RelativeToolTip": "PSD_PROJECT\\Views\\Admin\\InsertMakeupBrand.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T17:29:00.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InsertMakeup.aspx",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\InsertMakeup.aspx",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Views\\Admin\\InsertMakeup.aspx",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\InsertMakeup.aspx",
+              "RelativeToolTip": "PSD_PROJECT\\Views\\Admin\\InsertMakeup.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T17:02:40.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\Home.aspx",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Views\\Admin\\Home.aspx",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\Home.aspx",
+              "RelativeToolTip": "PSD_PROJECT\\Views\\Admin\\Home.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T17:02:40.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderMakeup.aspx",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Customer\\OrderMakeup.aspx",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Views\\Customer\\OrderMakeup.aspx",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Customer\\OrderMakeup.aspx",
+              "RelativeToolTip": "PSD_PROJECT\\Views\\Customer\\OrderMakeup.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T20:05:04.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "History.aspx",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Customer\\History.aspx",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Views\\Customer\\History.aspx",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Customer\\History.aspx",
+              "RelativeToolTip": "PSD_PROJECT\\Views\\Customer\\History.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T17:14:16.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Login.aspx",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Views\\Login.aspx",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Login.aspx",
+              "RelativeToolTip": "PSD_PROJECT\\Views\\Login.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T17:06:25.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TransactionDetail.aspx",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\TransactionDetail.aspx",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Views\\TransactionDetail.aspx",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\TransactionDetail.aspx",
+              "RelativeToolTip": "PSD_PROJECT\\Views\\TransactionDetail.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T17:37:39.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Register.aspx",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Views\\Register.aspx",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Register.aspx",
+              "RelativeToolTip": "PSD_PROJECT\\Views\\Register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T17:17:40.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Profile.aspx",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Profile.aspx",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Views\\Profile.aspx",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Profile.aspx",
+              "RelativeToolTip": "PSD_PROJECT\\Views\\Profile.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T18:25:41.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InsertMakeup.aspx.cs",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\InsertMakeup.aspx.cs",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Views\\Admin\\InsertMakeup.aspx.cs",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\InsertMakeup.aspx.cs",
+              "RelativeToolTip": "PSD_PROJECT\\Views\\Admin\\InsertMakeup.aspx.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA5wC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:08:16.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Views\\Admin\\Home.aspx.cs",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\Home.aspx.cs",
+              "RelativeToolTip": "PSD_PROJECT\\Views\\Admin\\Home.aspx.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:08:02.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "dbo.TransactionDetails [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__VINSON_BINUS_SEMESTER_4_PATTERN_SOFTWARE_DESIGN_FILE_ASLI_PSD_BOS_PSD_PROJECT_VINSON_PSD_PROJECT_APP_DATA_DATABASE.MDF/True/SqlTable/dbo.TransactionDetails.sql",
+              "ToolTip": "dbo.TransactionDetails [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-13T20:19:23.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "dbo.TransactionHeaders [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__VINSON_BINUS_SEMESTER_4_PATTERN_SOFTWARE_DESIGN_FILE_ASLI_PSD_BOS_PSD_PROJECT_VINSON_PSD_PROJECT_APP_DATA_DATABASE.MDF/True/SqlTable/dbo.TransactionHeaders.sql",
+              "ToolTip": "dbo.TransactionHeaders [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-13T20:19:41.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__VINSON_BINUS_SEMESTER_4_PATTERN_SOFTWARE_DESIGN_FILE_ASLI_PSD_BOS_PSD_PROJECT_VINSON_PSD_PROJECT_APP_DATA_DATABASE.MDF/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-13T20:17:58.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TransactionFactory.cs",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Factories\\TransactionFactory.cs",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Factories\\TransactionFactory.cs",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Factories\\TransactionFactory.cs",
+              "RelativeToolTip": "PSD_PROJECT\\Factories\\TransactionFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T20:22:55.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Repositories\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Repositories\\TransactionRepository.cs",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Repositories\\TransactionRepository.cs",
+              "RelativeToolTip": "PSD_PROJECT\\Repositories\\TransactionRepository.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T20:22:46.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "dbo.Carts [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__VINSON_BINUS_SEMESTER_4_PATTERN_SOFTWARE_DESIGN_FILE_ASLI_PSD_BOS_PSD_PROJECT_VINSON_PSD_PROJECT_APP_DATA_DATABASE.MDF/True/SqlTable/dbo.Carts.sql",
+              "ToolTip": "dbo.Carts [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-13T20:18:25.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "dbo.MakeupBrands [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__VINSON_BINUS_SEMESTER_4_PATTERN_SOFTWARE_DESIGN_FILE_ASLI_PSD_BOS_PSD_PROJECT_VINSON_PSD_PROJECT_APP_DATA_DATABASE.MDF/True/SqlTable/dbo.MakeupBrands.sql",
+              "ToolTip": "dbo.MakeupBrands [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-13T20:18:53.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "dbo.Makeups [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__VINSON_BINUS_SEMESTER_4_PATTERN_SOFTWARE_DESIGN_FILE_ASLI_PSD_BOS_PSD_PROJECT_VINSON_PSD_PROJECT_APP_DATA_DATABASE.MDF/True/SqlTable/dbo.Makeups.sql",
+              "ToolTip": "dbo.Makeups [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-13T20:19:06.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "dbo.MakeupTypes [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__VINSON_BINUS_SEMESTER_4_PATTERN_SOFTWARE_DESIGN_FILE_ASLI_PSD_BOS_PSD_PROJECT_VINSON_PSD_PROJECT_APP_DATA_DATABASE.MDF/True/SqlTable/dbo.MakeupTypes.sql",
+              "ToolTip": "dbo.MakeupTypes [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-13T20:19:19.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ManageMakeupController.cs",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Controllers\\ManageMakeupController.cs",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Controllers\\ManageMakeupController.cs",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Controllers\\ManageMakeupController.cs",
+              "RelativeToolTip": "PSD_PROJECT\\Controllers\\ManageMakeupController.cs",
+              "ViewState": "AQIAAOUAAAAAAAAAAAAgwPIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T19:04:41.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "InsertMakeupBrand.aspx.cs",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\InsertMakeupBrand.aspx.cs",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Views\\Admin\\InsertMakeupBrand.aspx.cs",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\InsertMakeupBrand.aspx.cs",
+              "RelativeToolTip": "PSD_PROJECT\\Views\\Admin\\InsertMakeupBrand.aspx.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAlwDEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:08:53.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Profile.aspx.cs",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Profile.aspx.cs",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Views\\Profile.aspx.cs",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Profile.aspx.cs",
+              "RelativeToolTip": "PSD_PROJECT\\Views\\Profile.aspx.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAkwG4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:31:55.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrderMakeup.aspx.cs",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Customer\\OrderMakeup.aspx.cs",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Views\\Customer\\OrderMakeup.aspx.cs",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Customer\\OrderMakeup.aspx.cs",
+              "RelativeToolTip": "PSD_PROJECT\\Views\\Customer\\OrderMakeup.aspx.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAYwF4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:14:39.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "History.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Customer\\History.aspx.designer.cs",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Views\\Customer\\History.aspx.designer.cs",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Customer\\History.aspx.designer.cs",
+              "RelativeToolTip": "PSD_PROJECT\\Views\\Customer\\History.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T18:25:11.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ManageMakeup.aspx.cs",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\ManageMakeup.aspx.cs",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Views\\Admin\\ManageMakeup.aspx.cs",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\ManageMakeup.aspx.cs",
+              "RelativeToolTip": "PSD_PROJECT\\Views\\Admin\\ManageMakeup.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:09:10.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "History.aspx.cs",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Customer\\History.aspx.cs",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Views\\Customer\\History.aspx.cs",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Customer\\History.aspx.cs",
+              "RelativeToolTip": "PSD_PROJECT\\Views\\Customer\\History.aspx.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:14:17.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "PSD_PROJECT\\Controllers\\RegisterController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAcwF8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:31:24.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TransactionDetail.aspx.cs",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\TransactionDetail.aspx.cs",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Views\\TransactionDetail.aspx.cs",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\TransactionDetail.aspx.cs",
+              "RelativeToolTip": "PSD_PROJECT\\Views\\TransactionDetail.aspx.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAApwDgAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:17:55.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UpdateMakeup.aspx.cs",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\UpdateMakeup.aspx.cs",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Views\\Admin\\UpdateMakeup.aspx.cs",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\UpdateMakeup.aspx.cs",
+              "RelativeToolTip": "PSD_PROJECT\\Views\\Admin\\UpdateMakeup.aspx.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAQwEkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:10:44.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Web.config",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Web.config",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Web.config",
+              "RelativeToolTip": "PSD_PROJECT\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-13T17:21:11.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Register.aspx.cs",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Register.aspx.cs",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Views\\Register.aspx.cs",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Register.aspx.cs",
+              "RelativeToolTip": "PSD_PROJECT\\Views\\Register.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:17:42.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TransactionDetailController.cs",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Controllers\\TransactionDetailController.cs",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Controllers\\TransactionDetailController.cs",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Controllers\\TransactionDetailController.cs",
+              "RelativeToolTip": "PSD_PROJECT\\Controllers\\TransactionDetailController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:29:34.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Views\\Login.aspx.cs",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Login.aspx.cs",
+              "RelativeToolTip": "PSD_PROJECT\\Views\\Login.aspx.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:06:25.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UpdateMakeupType.aspx.cs",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\UpdateMakeupType.aspx.cs",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Views\\Admin\\UpdateMakeupType.aspx.cs",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\UpdateMakeupType.aspx.cs",
+              "RelativeToolTip": "PSD_PROJECT\\Views\\Admin\\UpdateMakeupType.aspx.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:13:54.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UpdateMakeupBrand.aspx.cs",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\UpdateMakeupBrand.aspx.cs",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Views\\Admin\\UpdateMakeupBrand.aspx.cs",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\UpdateMakeupBrand.aspx.cs",
+              "RelativeToolTip": "PSD_PROJECT\\Views\\Admin\\UpdateMakeupBrand.aspx.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:11:58.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "TransactionReport.aspx.cs",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\TransactionReport.aspx.cs",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Views\\Admin\\TransactionReport.aspx.cs",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\TransactionReport.aspx.cs",
+              "RelativeToolTip": "PSD_PROJECT\\Views\\Admin\\TransactionReport.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:10:40.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "OrderQueue.aspx.cs",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\OrderQueue.aspx.cs",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Views\\Admin\\OrderQueue.aspx.cs",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\OrderQueue.aspx.cs",
+              "RelativeToolTip": "PSD_PROJECT\\Views\\Admin\\OrderQueue.aspx.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:09:33.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "InsertMakeupType.aspx.cs",
+              "DocumentMoniker": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\InsertMakeupType.aspx.cs",
+              "RelativeDocumentMoniker": "PSD_PROJECT\\Views\\Admin\\InsertMakeupType.aspx.cs",
+              "ToolTip": "C:\\Vinson\\BINUS\\SEMESTER 4\\Pattern Software Design\\FILE ASLI PSD BOS\\PSD_PROJECT_Vinson\\PSD_PROJECT\\Views\\Admin\\InsertMakeupType.aspx.cs",
+              "RelativeToolTip": "PSD_PROJECT\\Views\\Admin\\InsertMakeupType.aspx.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:09:01.588Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 110,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
